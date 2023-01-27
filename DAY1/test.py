@@ -16,5 +16,6 @@ print(orange // apple)
 print(orange % apple)
 """
 숙제
-team 수원에 day1_
+team 수원에 day1_50 부터 100중에서 3이랑 4의 공배수
 """
+
